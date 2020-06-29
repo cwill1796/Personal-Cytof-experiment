@@ -1,0 +1,407 @@
+<?xml version="1.0" standalone="yes"?>
+<MethodSchema xmlns="http://www.dvssciences.com/xsd/Cytof/MethodSchema_v1_0_3.xsd">
+  <MassChannels>
+    <Mass>140</Mass>
+    <Element>Ce</Element>
+    <Target>Beads</Target>
+    <Label>140Ce_Beads</Label>
+    <ElementID>Ce(140)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>138</Mass>
+    <Element>Ba</Element>
+    <Target />
+    <Label>138Ba</Label>
+    <ElementID>Ba(138)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>208</Mass>
+    <Element>Pb</Element>
+    <Target />
+    <Label>208Pb</Label>
+    <ElementID>Pb(208)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>131</Mass>
+    <Element>Xe</Element>
+    <Target />
+    <Label>131Xe</Label>
+    <ElementID>Xe(131)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>120</Mass>
+    <Element>Sn</Element>
+    <Target />
+    <Label>120Sn</Label>
+    <ElementID>Sn(120)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>190</Mass>
+    <Element>BCKG</Element>
+    <Target />
+    <Label>190BCKG</Label>
+    <ElementID>BCKG(190)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>191</Mass>
+    <Element>Ir</Element>
+    <Target>DNA1</Target>
+    <Label>191Ir_DNA1</Label>
+    <ElementID>Ir(191)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>133</Mass>
+    <Element>Cs</Element>
+    <Target />
+    <Label>133Cs</Label>
+    <ElementID>Cs(133)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>153</Mass>
+    <Element>Eu</Element>
+    <Target />
+    <Label>153Eu</Label>
+    <ElementID>Eu(153)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>175</Mass>
+    <Element>Lu</Element>
+    <Target />
+    <Label>175Lu</Label>
+    <ElementID>Lu(175)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>165</Mass>
+    <Element>Ho</Element>
+    <Target />
+    <Label>165Ho</Label>
+    <ElementID>Ho(165)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>151</Mass>
+    <Element>Eu</Element>
+    <Target />
+    <Label>151Eu</Label>
+    <ElementID>Eu(151)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>193</Mass>
+    <Element>Ir</Element>
+    <Target>DNA2</Target>
+    <Label>193Ir_DNA2</Label>
+    <ElementID>Ir(193)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>103</Mass>
+    <Element>Rh</Element>
+    <Target>Viability</Target>
+    <Label>103Rh_Viability</Label>
+    <ElementID>Rh(103)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>127</Mass>
+    <Element>I</Element>
+    <Target />
+    <Label>127I</Label>
+    <ElementID>I(127)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>156</Mass>
+    <Element>Gd</Element>
+    <Target />
+    <Label>156Gd</Label>
+    <ElementID>Gd(156)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>195</Mass>
+    <Element>Pt</Element>
+    <Target>Viabilty</Target>
+    <Label>195Pt_Viabilty</Label>
+    <ElementID>Pt(195)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>89</Mass>
+    <Element>Y</Element>
+    <Target>CD45</Target>
+    <Label>89Y_CD45</Label>
+    <ElementID>Y(89)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>139</Mass>
+    <Element>La</Element>
+    <Target />
+    <Label>139La</Label>
+    <ElementID>La(139)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>141</Mass>
+    <Element>Pr</Element>
+    <Target />
+    <Label>141Pr</Label>
+    <ElementID>Pr(141)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>142</Mass>
+    <Element>Nd</Element>
+    <Target>Cd19</Target>
+    <Label>142Nd_Cd19</Label>
+    <ElementID>Nd(142)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>143</Mass>
+    <Element>Nd</Element>
+    <Target />
+    <Label>143Nd</Label>
+    <ElementID>Nd(143)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>144</Mass>
+    <Element>Nd</Element>
+    <Target />
+    <Label>144Nd</Label>
+    <ElementID>Nd(144)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>145</Mass>
+    <Element>Nd</Element>
+    <Target />
+    <Label>145Nd</Label>
+    <ElementID>Nd(145)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>148</Mass>
+    <Element>Nd</Element>
+    <Target />
+    <Label>148Nd</Label>
+    <ElementID>Nd(148)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>146</Mass>
+    <Element>Nd</Element>
+    <Target>Cd8a</Target>
+    <Label>146Nd_Cd8a</Label>
+    <ElementID>Nd(146)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>150</Mass>
+    <Element>Nd</Element>
+    <Target />
+    <Label>150Nd</Label>
+    <ElementID>Nd(150)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>147</Mass>
+    <Element>Sm</Element>
+    <Target />
+    <Label>147Sm</Label>
+    <ElementID>Sm(147)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>149</Mass>
+    <Element>Sm</Element>
+    <Target />
+    <Label>149Sm</Label>
+    <ElementID>Sm(149)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>152</Mass>
+    <Element>Sm</Element>
+    <Target />
+    <Label>152Sm</Label>
+    <ElementID>Sm(152)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>154</Mass>
+    <Element>Sm</Element>
+    <Target />
+    <Label>154Sm</Label>
+    <ElementID>Sm(154)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>155</Mass>
+    <Element>Gd</Element>
+    <Target />
+    <Label>155Gd</Label>
+    <ElementID>Gd(155)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>157</Mass>
+    <Element>Gd</Element>
+    <Target />
+    <Label>157Gd</Label>
+    <ElementID>Gd(157)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>158</Mass>
+    <Element>Gd</Element>
+    <Target>CD3</Target>
+    <Label>158Gd_CD3</Label>
+    <ElementID>Gd(158)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>160</Mass>
+    <Element>Gd</Element>
+    <Target />
+    <Label>160Gd</Label>
+    <ElementID>Gd(160)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>161</Mass>
+    <Element>Dy</Element>
+    <Target />
+    <Label>161Dy</Label>
+    <ElementID>Dy(161)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>162</Mass>
+    <Element>Dy</Element>
+    <Target />
+    <Label>162Dy</Label>
+    <ElementID>Dy(162)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>163</Mass>
+    <Element>Dy</Element>
+    <Target />
+    <Label>163Dy</Label>
+    <ElementID>Dy(163)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>164</Mass>
+    <Element>Dy</Element>
+    <Target />
+    <Label>164Dy</Label>
+    <ElementID>Dy(164)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>166</Mass>
+    <Element>Er</Element>
+    <Target />
+    <Label>166Er</Label>
+    <ElementID>Er(166)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>167</Mass>
+    <Element>Er</Element>
+    <Target />
+    <Label>167Er</Label>
+    <ElementID>Er(167)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>168</Mass>
+    <Element>Er</Element>
+    <Target />
+    <Label>168Er</Label>
+    <ElementID>Er(168)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>169</Mass>
+    <Element>Tm</Element>
+    <Target />
+    <Label>169Tm</Label>
+    <ElementID>Tm(169)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>159</Mass>
+    <Element>Tb</Element>
+    <Target />
+    <Label>159Tb</Label>
+    <ElementID>Tb(159)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>171</Mass>
+    <Element>Yb</Element>
+    <Target />
+    <Label>171Yb</Label>
+    <ElementID>Yb(171)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>173</Mass>
+    <Element>Yb</Element>
+    <Target />
+    <Label>173Yb</Label>
+    <ElementID>Yb(173)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>172</Mass>
+    <Element>Yb</Element>
+    <Target />
+    <Label>172Yb</Label>
+    <ElementID>Yb(172)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>174</Mass>
+    <Element>Yb</Element>
+    <Target>CD4</Target>
+    <Label>174Yb_CD4</Label>
+    <ElementID>Yb(174)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>176</Mass>
+    <Element>Yb</Element>
+    <Target />
+    <Label>176Yb</Label>
+    <ElementID>Yb(176)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>209</Mass>
+    <Element>Bi</Element>
+    <Target />
+    <Label>209Bi</Label>
+    <ElementID>Bi(209)</ElementID>
+  </MassChannels>
+  <MassChannels>
+    <Mass>170</Mass>
+    <Element>Er</Element>
+    <Target />
+    <Label>170Er</Label>
+    <ElementID>Er(170)</ElementID>
+  </MassChannels>
+  <Params>
+    <WashingTime>0</WashingTime>
+    <BufferTime>0</BufferTime>
+    <OutputConvolutions>true</OutputConvolutions>
+    <NoiseReduction>true</NoiseReduction>
+    <LowerConvolutionThreshold>400</LowerConvolutionThreshold>
+    <LevelSubstraction>0</LevelSubstraction>
+    <MinEventDuration>10</MinEventDuration>
+    <MaxEventDuration>150</MaxEventDuration>
+    <Sigma>3</Sigma>
+    <ThresholdFilteringCustom>false</ThresholdFilteringCustom>
+    <CustomExpression />
+    <TemplateName>5markertrial</TemplateName>
+    <SignalType>Dual</SignalType>
+    <AnalysisType>Real-time</AnalysisType>
+    <PreserveIMD>false</PreserveIMD>
+    <DualDataCalibStart>0</DualDataCalibStart>
+    <DualDataCalibEnd>2</DualDataCalibEnd>
+    <InstrumentDualCalibration>true</InstrumentDualCalibration>
+    <DataDualCalibration>false</DataDualCalibration>
+    <IntensityUpperLimit>50</IntensityUpperLimit>
+    <DualCountStart>1</DualCountStart>
+    <TemplatePath>Z:\users\cwilliams\20181204\5markertrial.tem</TemplatePath>
+    <Randomization>true</Randomization>
+    <SolutionMode>false</SolutionMode>
+    <EventMode>true</EventMode>
+    <ViewPlot>true</ViewPlot>
+    <RefreshSeconds>10</RefreshSeconds>
+    <PushesToShow>400</PushesToShow>
+    <ModifierAuthorization>3</ModifierAuthorization>
+    <GaussianDiscrimination>true</GaussianDiscrimination>
+  </Params>
+  <SignalType>
+    <SignalType>Dual</SignalType>
+  </SignalType>
+  <SignalType>
+    <SignalType>Intensity</SignalType>
+  </SignalType>
+  <SignalType>
+    <SignalType>Pulse</SignalType>
+  </SignalType>
+  <AnalysisType>
+    <AnalysisType>Real-time</AnalysisType>
+  </AnalysisType>
+  <AnalysisType>
+    <AnalysisType>Post-Acquisition</AnalysisType>
+  </AnalysisType>
+</MethodSchema>
